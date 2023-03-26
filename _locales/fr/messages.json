@@ -1,0 +1,19 @@
+{
+	"extensionName": {
+		"message": "web0.cc",
+		"description": "Name of the extension."
+	},
+
+	"extensionDescription": {
+		"message": "Raccourcis pour l'outil web0.cc",
+		"description": "Description of the extension."
+	},
+
+	"contextItemCurpageTitle": {
+		"message": "Lire cette page avec &web0.cc"
+	},
+
+	"contextItemLinkTitle": {
+		"message": "Lire ce lien avec &web0.cc"
+	}
+}
