@@ -1,3 +1,7 @@
+## 1.0.2
+
+-   Actually use the new icons
+
 ## 1.0.1
 
 -   Add an icon (placeholder)
