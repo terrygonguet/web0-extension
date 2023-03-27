@@ -4,7 +4,7 @@ Quickly run pages through the [web0.cc](https://web0.cc/) tool!
 
 ## Install
 
-This extension is available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/TBD/) and [any Chrome-like browser](https://chrome.google.com/webstore/detail/TBD) (Chrome, Brave, Edge etc...)
+This extension is available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web0cc/) and [any Chrome-like browser](https://chrome.google.com/webstore/detail/TBD) (Chrome, Brave, Edge etc...)
 
 ## Structure
 
