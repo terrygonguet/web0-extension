@@ -1,3 +1,7 @@
+## 1.0.1
+
+-   Add an icon (placeholder)
+
 ## 1.0.0 - Release! 🎉
 
 First release! Features:
